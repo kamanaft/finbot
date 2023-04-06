@@ -1,4 +1,4 @@
-"""Сервер Telegram бота, запускаемый непосредственно"""
+"""Server Telegram bota spuštěný přímo."""
 import logging
 import os
 from dotenv import load_dotenv, find_dotenv
